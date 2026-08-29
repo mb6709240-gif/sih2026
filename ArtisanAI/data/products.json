@@ -1,0 +1,262 @@
+[
+  {
+    "id": "p1",
+    "artisanId": "artisan-demo",
+    "name": "Handwoven Bamboo Fruit Basket",
+    "category": "Bamboo Craft",
+    "price": 499,
+    "description": "Meticulously handwoven from seasoned natural bamboo. Lightweight, durable, and 100% biodegradable for conscious living and festive hampers.",
+    "material": "Natural bamboo",
+    "location": "Assam & Tamil Nadu",
+    "tags": [
+      "bamboo",
+      "handmade",
+      "eco-friendly",
+      "basket",
+      "gift",
+      "home decor"
+    ],
+    "image": "https://images.unsplash.com/photo-1590736969955-71cc94901144?auto=format&fit=crop&w=900&q=80",
+    "stock": 18,
+    "createdAt": "2026-08-28T16:57:06.362Z"
+  },
+  {
+    "id": "p2",
+    "artisanId": "artisan-demo",
+    "name": "Terracotta Festive Diya Lamp",
+    "category": "Terracotta",
+    "price": 699,
+    "description": "Traditional terracotta clay lamp hand-thrown on a potters wheel with intricate lattice carvings for warm, ambient festive lighting.",
+    "material": "Terracotta clay",
+    "location": "Panchmura, West Bengal",
+    "tags": [
+      "terracotta",
+      "lamp",
+      "clay",
+      "traditional",
+      "diwali",
+      "gift",
+      "lighting"
+    ],
+    "image": "https://images.unsplash.com/photo-1602874801006-e26c8c6e6f25?auto=format&fit=crop&w=900&q=80",
+    "stock": 15,
+    "createdAt": "2026-08-28T16:57:06.362Z"
+  },
+  {
+    "id": "p3",
+    "artisanId": "artisan-demo",
+    "name": "Treated Palm Leaf Storage Trunk",
+    "category": "Palm Leaf Craft",
+    "price": 849,
+    "description": "Eco-friendly organizer trunk woven from sun-cured palm leaves with traditional herringbone weave pattern.",
+    "material": "Palm leaf & cotton twine",
+    "location": "Tamil Nadu",
+    "tags": [
+      "palm leaf",
+      "storage",
+      "eco-friendly",
+      "sustainable",
+      "organizer"
+    ],
+    "image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=900&q=80",
+    "stock": 10,
+    "createdAt": "2026-08-28T16:57:06.362Z"
+  },
+  {
+    "id": "p4",
+    "artisanId": "artisan-demo",
+    "name": "Handcrafted Dhokra Brass Bell",
+    "category": "Brass Craft",
+    "price": 1299,
+    "description": "Lost-wax cast brass tribal bell crafted by master Dhokra metalsmiths. Produces a clear, resonant chime for pooja rooms or patio decor.",
+    "material": "Cast Bell Brass",
+    "location": "Bastar, Chhattisgarh",
+    "tags": [
+      "brass",
+      "dhokra",
+      "metal",
+      "tribal",
+      "bell",
+      "pooja",
+      "traditional"
+    ],
+    "image": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=900&q=80",
+    "stock": 8,
+    "createdAt": "2026-08-28T16:57:06.362Z"
+  },
+  {
+    "id": "p5",
+    "artisanId": "artisan-demo",
+    "name": "Jaipur Blue Pottery Floral Vase",
+    "category": "Pottery",
+    "price": 1450,
+    "description": "Authentic quartz-powder blue pottery vase with Persian cobalt motifs. Fired without clay using traditional recipes from Rajasthan.",
+    "material": "Quartz stone & natural glass glaze",
+    "location": "Jaipur, Rajasthan",
+    "tags": [
+      "blue pottery",
+      "jaipur",
+      "pottery",
+      "vase",
+      "ceramic",
+      "home decor",
+      "gift"
+    ],
+    "image": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=900&q=80",
+    "stock": 12,
+    "createdAt": "2026-08-28T16:57:06.362Z"
+  },
+  {
+    "id": "p6",
+    "artisanId": "artisan-demo",
+    "name": "Handloom Organic Cotton Saree",
+    "category": "Textile",
+    "price": 2850,
+    "description": "Pure handloom cotton saree woven on traditional pit looms with natural plant-based indigo dye and hand block printed border.",
+    "material": "Organic Handspun Cotton",
+    "location": "Chanderi, Madhya Pradesh",
+    "tags": [
+      "cotton",
+      "saree",
+      "textile",
+      "handloom",
+      "indigo",
+      "clothing",
+      "wedding"
+    ],
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=80",
+    "stock": 6,
+    "createdAt": "2026-08-28T16:57:06.362Z"
+  },
+  {
+    "id": "p7",
+    "artisanId": "artisan-demo",
+    "name": "Kashmir Walnut Wood Carved Box",
+    "category": "Woodwork",
+    "price": 1899,
+    "description": "Intricately hand-carved jewelry keepsake box crafted from aged Kashmiri walnut wood with floral filigree relief work.",
+    "material": "Seasoned Walnut Wood",
+    "location": "Srinagar, Kashmir",
+    "tags": [
+      "wood",
+      "walnut",
+      "carving",
+      "box",
+      "keepsake",
+      "gift",
+      "luxury"
+    ],
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=900&q=80",
+    "stock": 9,
+    "createdAt": "2026-08-28T16:57:06.362Z"
+  },
+  {
+    "id": "p8",
+    "artisanId": "artisan-demo",
+    "name": "Hand-Painted Madhubani Wall Art",
+    "category": "Painting",
+    "price": 2100,
+    "description": "Authentic Mithila folk painting depicting Tree of Life using natural twig brushes and vegetable pigments on handmade rice paper.",
+    "material": "Handmade Rice Paper & Natural Dyes",
+    "location": "Madhubani, Bihar",
+    "tags": [
+      "painting",
+      "madhubani",
+      "wall art",
+      "folk art",
+      "traditional",
+      "home decor"
+    ],
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=900&q=80",
+    "stock": 5,
+    "createdAt": "2026-08-28T16:57:06.362Z"
+  },
+  {
+    "id": "p9",
+    "artisanId": "artisan-demo",
+    "name": "Braided Jute Floor Mat & Runner",
+    "category": "Jute Craft",
+    "price": 750,
+    "description": "Thick, durable runner hand-braided from golden jute fibers. Naturally dirt-resistant, reversible, and 100% compostable.",
+    "material": "Golden Natural Jute",
+    "location": "West Bengal",
+    "tags": [
+      "jute",
+      "rug",
+      "mat",
+      "runner",
+      "eco-friendly",
+      "sustainable",
+      "home decor"
+    ],
+    "image": "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=900&q=80",
+    "stock": 14,
+    "createdAt": "2026-08-28T16:57:06.362Z"
+  },
+  {
+    "id": "p10",
+    "artisanId": "artisan-demo",
+    "name": "Dokra Brass Peacock Figurine",
+    "category": "Brass Craft",
+    "price": 1650,
+    "description": "Handcrafted antique brass peacock sculpture made with ancient 4000-year-old non-ferrous metal casting method.",
+    "material": "Cast Brass Alloy",
+    "location": "Odisha",
+    "tags": [
+      "brass",
+      "sculpture",
+      "peacock",
+      "dhokra",
+      "traditional",
+      "gift",
+      "metal"
+    ],
+    "image": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=900&q=80",
+    "stock": 7,
+    "createdAt": "2026-08-28T16:57:06.362Z"
+  },
+  {
+    "id": "p11",
+    "artisanId": "artisan-demo",
+    "name": "Terracotta Clay Cooking Handi Pot",
+    "category": "Terracotta",
+    "price": 550,
+    "description": "Unglazed natural earthenware handi pot for slow cooking. Retains nutrients, alkalizes acidity, and infuses natural earthy aroma into curries.",
+    "material": "Natural Earthen Clay",
+    "location": "Thanjavur, Tamil Nadu",
+    "tags": [
+      "terracotta",
+      "clay",
+      "cooking",
+      "pot",
+      "handi",
+      "kitchen",
+      "organic"
+    ],
+    "image": "https://images.unsplash.com/photo-1602874801006-e26c8c6e6f25?auto=format&fit=crop&w=900&q=80",
+    "stock": 20,
+    "createdAt": "2026-08-28T16:57:06.362Z"
+  },
+  {
+    "id": "p12",
+    "artisanId": "artisan-demo",
+    "name": "Hand-Block Printed Silk Stole",
+    "category": "Textile",
+    "price": 1350,
+    "description": "Lightweight mulberry silk stole with Bagru vegetable dye wooden block prints, finished with hand-knotted fringe.",
+    "material": "Mulberry Silk",
+    "location": "Bagru, Rajasthan",
+    "tags": [
+      "silk",
+      "stole",
+      "scarf",
+      "block print",
+      "fashion",
+      "gift",
+      "textile"
+    ],
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=80",
+    "stock": 11,
+    "createdAt": "2026-08-28T16:57:06.362Z"
+  }
+]
